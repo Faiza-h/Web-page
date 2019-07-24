@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+	<title>Shoe Galore</title>
+	<link rel="stylesheet" href="style.css">
+	
+</head>
+<body>
+	<header>
+		<nav>
+	<a href="About.htm">About</a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	<a href="Shoes.htm">Shoes</a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	<a href="Order.htm">Order</a>
+       </nav>
+
+	</header>
+</body>
+<h3>We have shoes for every occasion that best suits your needs.</h3>
+<img src="shoe8.jpg" alt="Heels">
+
+</html>

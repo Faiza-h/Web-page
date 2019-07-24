@@ -1,0 +1,27 @@
+body{
+background-color: grey;
+}
+
+.banner{
+	width:80%;
+}
+
+nav{
+	padding: 15px;
+	background-color: gold;
+	color: black;
+}
+
+p.intro::first-letter{
+	color: red;
+	font-size: 300%;
+}
+
+img{
+	border-radius: 50%;
+}
+
+footer{
+	color: red;
+	background-color: gold;
+}
